@@ -5,7 +5,7 @@ class Database:
         self.conn = pyodbc.connect(
             "Driver={ODBC Driver 17 for SQL Server};"
             "Server=AYUSH_SHARMA\SQLEXPRESS;"  # Replace as needed
-            "Database=BankingSystem;"
+            "Database=SBI_Database;"
             "Trusted_Connection=yes;"
         )
         self.cursor = self.conn.cursor()
