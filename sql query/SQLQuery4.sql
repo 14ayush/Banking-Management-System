@@ -1,0 +1,2 @@
+ALTER TABLE Customers
+ALTER COLUMN phone_no VARCHAR(15);
