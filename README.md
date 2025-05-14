@@ -26,3 +26,11 @@ Here are the Project Work Flow Steps
 1. Banking                                            4. Deposite
 2. Statements                                       5. Withdraw
 3. Check Balance                                 6. Generate Pin
+
+* **Banking:-** In the Banking option under the Menu we gave 3 choices to the customer
+  1. Apply For New ATM Card
+  2. Get Account Info
+  3. Change Pin
+* **Statement:** Under this option customer get the last 5 transaction in his account by authenticate PIN
+* **Check Balance:** Under this option Customer can check its current balance
+* **Deposit:**
